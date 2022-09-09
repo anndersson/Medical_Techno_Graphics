@@ -12,7 +12,16 @@ html{
 }
 
 @media screen and (max-width:37.5rem){ 
-
+     .parrafo{
+        align-self: flex-start;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 152%;
+    text-align: left;
+    max-width: 80%;
+     }
 }
 
 @media screen and (max-width:136.6rem){ 
