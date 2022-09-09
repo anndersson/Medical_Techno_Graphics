@@ -1,2 +1,2 @@
-//CODIGO PARA CONECTAR TODOS LOS JAVASCRIP//
-
+import { creartrabajo } from "./trabajo.js";
+creartrabajo();
