@@ -65,7 +65,7 @@ color: #202020;
     width: 100%;
     height: auto;
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
@@ -89,7 +89,7 @@ margin-top: 2rem;
 .circulos{
     margin-top: 4rem;
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     width: 100%;                                                                    
@@ -114,7 +114,7 @@ margin-top: 2rem;
     border-radius: 5%;
     text-align: center;
     margin-top: 4rem;
-    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;   
     margin-bottom: 5rem;                                                                
