@@ -6,14 +6,19 @@
 
 html{
     font-size: 10px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
-section{
-    max-width: 38.5rem;
-    height: auto;
-    margin: auto;
-    padding: 6rem 4rem;
+@media screen and (max-width:37.5rem){ 
 
-    display: flex;
-    flex-direction: column;
+}
+
+@media screen and (max-width:136.6rem){ 
+    
+}
+
+@media screen and (max-width:192rem){ 
+    
 }
