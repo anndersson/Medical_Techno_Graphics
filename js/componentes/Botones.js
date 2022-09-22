@@ -11,7 +11,7 @@ export let Botones = `
                </div>
               <div class="circulos01">
               <img class="elipse" src="img/Ellipse 3.png">
-              <a class="palabra" href="">Proteínas</a>
+              <a class="palabra" href="./proteina.html">Proteínas</a>
             </div>
                <div class="circulos01">
               <img class="elipse" src="img/Ellipse 4.png">
