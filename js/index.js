@@ -1,6 +1,8 @@
 import {menu} from "./componentes/menu.js";
 import {footer} from "./componentes/footer.js";
-
+import {estadistica} from "./componentes/estadistica.js"
+import {piramide} from "./componentes/piramide.js"
+import {Botones} from "./componentes/Botones.js"
 
 let estructura_index = 
 `
@@ -8,9 +10,17 @@ let estructura_index =
     ${menu}
 </header>
 
-<section id="estadistica"></section>
+<section id="estadistica">
+${estadistica}
+</section>
 
-<section id="piramide"></section>
+<section id="piramide">
+${piramide}
+</section>
+
+<section id="Botones">
+${Botones}
+</section>
 
 <footer id="footer">
     ${footer}
