@@ -16,7 +16,11 @@ el cuerpo humano no es capaz de utilizar las proteínas ingeridas mediante la al
 </p>
 <img class="imagenes" src="img/image 1.png" alt=""> 
 </div>
-
+<div class="video">
+<video controls autoplay>
+<source src="img/VID-20220923-WA0013.mp4" type="video/mp4">
+</video>
+</div>
 
 <footer id="footer">
     ${footer}

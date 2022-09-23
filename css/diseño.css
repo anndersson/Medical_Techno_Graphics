@@ -137,7 +137,8 @@ margin-top: 2rem;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    position: absolute;
+    position: relative;
+    vertical-align: bottom;
     bottom: 0;
 }
 
