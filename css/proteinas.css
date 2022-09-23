@@ -1,0 +1,29 @@
+
+
+
+
+
+.imagenes{
+    margin-top: -220px;
+    margin-left: 1300px;
+    height: 242px;
+    width: 571px;
+    border-radius: 0px;
+
+}
+.h{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+.ande{
+    margin-left: 5rem;
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;                                                                    
+    height: auto;
+    font-size: 18px;
+}

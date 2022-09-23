@@ -7,7 +7,15 @@ let estructura_proteina =
 <header id="header">
     ${menu}
 </header>
-
+<h1 class="h" >SÍNTESIS DE LAS PROTEINAS </h1>
+<div class="ande" >
+<p>El proceso conocido como síntesis de proteínas viene a estabilizar el desequilibrio ocasionado por la pérdida de proteínas celulares debida a la degradación que estas sufren al intervenir en la función para la que están destinadas. 
+<br>
+Su finalidad es permitir que el organismo forme macromoléculas que necesita para llevar a cabo sus funciones.</br>
+el cuerpo humano no es capaz de utilizar las proteínas ingeridas mediante la alimentación directamente, sino que necesita romper sus enlaces peptídicos y, a partir de los aminoácidos que contienen, crear nuevas estructuras.
+</p>
+<img class="imagenes" src="img/image 1.png" alt=""> 
+</div>
 
 
 <footer id="footer">
