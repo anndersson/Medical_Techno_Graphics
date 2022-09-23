@@ -7,6 +7,8 @@ let estructura_proteina =
 <header id="header">
     ${menu}
 </header>
+
+
 <h1 class="h" >SÍNTESIS DE LAS PROTEINAS </h1>
 <div class="ande" >
 <p>El proceso conocido como síntesis de proteínas viene a estabilizar el desequilibrio ocasionado por la pérdida de proteínas celulares debida a la degradación que estas sufren al intervenir en la función para la que están destinadas. 
@@ -16,10 +18,18 @@ el cuerpo humano no es capaz de utilizar las proteínas ingeridas mediante la al
 </p>
 <img class="imagenes" src="img/image 1.png" alt=""> 
 </div>
+<<<<<<< HEAD
 <div class="video">
 <video controls autoplay>
 <source src="img/VID-20220923-WA0013.mp4" type="video/mp4">
 </video>
+=======
+
+<h1> class="Alimentos"> Proteinas Por Alimentos </h1>
+<div class="prot">
+<img class="alimentos2" src="img/inasprote.jpg">
+<img class="alimentos3" src="img/inas.jpg">
+>>>>>>> 461c622e98b1116b7c7748151fb780ecb11baded
 </div>
 
 <footer id="footer">
