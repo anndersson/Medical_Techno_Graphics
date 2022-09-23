@@ -69,7 +69,8 @@ color: #202020;
 .grafica{
     margin-left: 8rem;
     margin: 3rem;
-    width: 100%;
+    width: 40%;
+    margin: 0 auto;
 }
 
 .piramide{
@@ -77,7 +78,8 @@ color: #202020;
     border-radius: 5%;
     margin-top: 5rem;
     margin: 5rem; 
-    width: 100%;
+    width: 40%;
+    margin: 0 auto;
 }
 
 .elipse{
@@ -194,5 +196,6 @@ margin-top: 3rem;
     width: 5rem;
 }
 .imagen_frutas{
-    width: 100%;
+    width: 50%;
+    margin: 0 auto;
 }
