@@ -71,7 +71,10 @@ color: #202020;
 .grafica{
     margin-left: 8rem;
     margin: 3rem;
+    width: 40%;
+    margin: 0 auto;
     width: 45%;
+
 }
 
 .piramide{
@@ -79,7 +82,12 @@ color: #202020;
     border-radius: 5%;
     margin-top: 5rem;
     margin: 5rem; 
+
+    width: 40%;
+    margin: 0 auto;
+
     width: 45%;
+
 }
 
 .elipse{
@@ -139,6 +147,13 @@ margin-top: 2rem;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
+=======
+
+    position: relative;
+    vertical-align: bottom;
+
+>>>>>>> 2ee0511f215cac46f3a1b698ab1f8cc827ef0555
     bottom: 0;
 }
 
@@ -197,6 +212,9 @@ margin-top: 2.5rem;
     width: 5rem;
 }
 .imagen_frutas{
+
+    width: 50%;
+    margin: 0 auto;
     position: absolute;
     margin-left: 55%;
     width: 40%;
@@ -206,4 +224,5 @@ margin-top: 2.5rem;
     display: flex;
     flex-direction: row;
     width: 70rem;
+
 }
