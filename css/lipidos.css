@@ -35,3 +35,26 @@ background: #3EC1D3;
     border: 25px solid #D9D9D9;
     border-radius: 15px;
 }
+
+.alimentos {
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alimento {
+    background-color: #3EC1D3;
+    width: 700px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+.alimento span {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+}
