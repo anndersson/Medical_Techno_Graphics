@@ -20,13 +20,20 @@ el cuerpo humano no es capaz de utilizar las proteínas ingeridas mediante la al
 <img class="imagenes" src="img/image 1.png" alt=""> 
 </div>
 
+<<<<<<< HEAD
 <div class="video">
 <video controls autoplay>
 <source src="img/VID-20220923-WA0013.mp4" type="video/mp4">
 </video>
 </div>
 
+=======
+<<<<<<< HEAD
+<h1 class="Alimentos"> Proteinas Por Alimentos </h1>
+=======
+>>>>>>> 678c6580f6c65a5b4f8580ef231d56021c684912
 <h1 class="Alimentos"> Proteinas por Alimentos </h1>
+>>>>>>> 288983ccf8eb1560ec9c4b4815cbbd50325d358a
 <div class="prot">
 <img class="alimentos2" src="img/inasprote.jpg">
 <img class="alimentos3" src="img/inas.jpg">
