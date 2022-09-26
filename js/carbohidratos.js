@@ -20,7 +20,7 @@ En su forma más básica, los carbohidratos están hechos de bloques de construc
 <img class="dat" src="img/datoss.png"> 
 </div>
 
-<div class="videocarbo">
+<div class="videocarbo"> 
 </div>
 
 <h1 class="procesados"> Carbohidratos por Alimentos </h1>
