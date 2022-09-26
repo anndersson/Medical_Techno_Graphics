@@ -29,7 +29,7 @@ el cuerpo humano no es capaz de utilizar las proteínas ingeridas mediante la al
 
     <div class="alimentos">
         <div class="alimento">
-            <img src="" alt="">
+            <img src="img/Ellipse 9.png" alt="">
             <div>
                 <span>Aguacate - 1.9 de Proteína por 100g</span>
             </div>

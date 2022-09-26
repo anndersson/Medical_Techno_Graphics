@@ -47,14 +47,26 @@ background: #3EC1D3;
 
 .alimento {
     background-color: #3EC1D3;
-    width: 700px;
-    height: 60px;
+    width: 500px;
+    height: 40px;
     border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-right: 48px;
+    margin-top: 40px;
+}
+
+.alimento img {
+    width: 80px;
+    border: 5px solid #3EC1D3;
+    border-radius: 100%;
 }
 
 .alimento span {
     color: #fff;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
     width: 100%;
 }
