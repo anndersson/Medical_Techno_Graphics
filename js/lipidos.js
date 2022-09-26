@@ -19,8 +19,16 @@ el cuerpo humano no es capaz de utilizar las proteínas ingeridas mediante la al
 <img class="imagenes" src="img/image 1.png" alt=""> 
 </div>
 
+<div class="video">
+<h1 class="texto-proteinas">¿QUE SON LOS LIPIDOS?</h1>
+<video src="img/CEA1924D-33A2-4F75-B3A1-79941BDB9DDF.mov" controls autoplay>
+</video>
+</div>
 
 <h1 class="Alimentos"> Proteinas Por Alimentos </h1>
+
+
+
 <div class="prot">
 <img class="alimentos2" src="img/inasprote.jpg">
 <img class="alimentos3" src="img/inas.jpg">

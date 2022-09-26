@@ -21,6 +21,11 @@ En su forma más básica, los carbohidratos están hechos de bloques de construc
 </div>
 
 <div class="videocarbo"> 
+<h1 class="texto-proteinas">¿QUE SON LOS CARBOHIDRATOS?</h1>
+<video controls autoplay>
+<source src="img/VID-20220923-WA0013.mp4" type="video/mp4">
+</video>
+</div>
 </div>
 
 <h1 class="procesados"> Carbohidratos por Alimentos </h1>
