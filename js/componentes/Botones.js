@@ -3,7 +3,7 @@ export let Botones = `
 <div class="circulos">
               <div class="circulos01">
              <img class="elipse" src="img/Ellipse 1.png">
-               <a class="palabra" href="">Carbohidatros</a>
+             <a class="palabra" href="./carbohidratos.html">Carbohidatros</a>
              </div>
              <div class="circulos01">
              <img class="elipse" src="img/Ellipse 2.png">

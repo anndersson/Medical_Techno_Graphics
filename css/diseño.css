@@ -147,13 +147,8 @@ margin-top: 2rem;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-<<<<<<< HEAD
-=======
-
     position: relative;
     vertical-align: bottom;
-
->>>>>>> 2ee0511f215cac46f3a1b698ab1f8cc827ef0555
     bottom: 0;
 }
 
@@ -224,5 +219,4 @@ margin-top: 2.5rem;
     display: flex;
     flex-direction: row;
     width: 70rem;
-
 }
