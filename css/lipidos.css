@@ -1,0 +1,40 @@
+.h{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    align-self: flex-start;
+    font-family: 'Comfortaa';
+    font-style: normal;
+}
+.ande{
+    margin-left: 5rem;
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;                                                                    
+    height: auto;
+    font-size: 18px;
+}
+.imagenes{
+    margin-top: -220px;
+    margin-left: 1500px;
+    height: 242px;
+    width: 571px;
+    border-radius: 0px;
+}
+.video{
+   position: absolute;
+   width: 112px;
+   height: 886px;
+   left: 0px;
+   top: 724px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+/* COLOR */
+
+background: #3EC1D3;
+}
