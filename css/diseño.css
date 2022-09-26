@@ -74,6 +74,10 @@ color: #202020;
     width: 40%;
     margin: 0 auto;
     width: 45%;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 288983ccf8eb1560ec9c4b4815cbbd50325d358a
 }
 
 .piramide{
@@ -81,9 +85,18 @@ color: #202020;
     border-radius: 5%;
     margin-top: 5rem;
     margin: 5rem; 
+<<<<<<< HEAD
     width: 40%;
     margin: 0 auto;
     width: 45%;
+=======
+
+    width: 40%;
+    margin: 0 auto;
+
+    width: 45%;
+
+>>>>>>> 288983ccf8eb1560ec9c4b4815cbbd50325d358a
 }
 
 .elipse{
@@ -143,6 +156,13 @@ margin-top: 2rem;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
+=======
+
+    position: relative;
+    vertical-align: bottom;
+
+>>>>>>> 2ee0511f215cac46f3a1b698ab1f8cc827ef0555
     bottom: 0;
 }
 
@@ -201,6 +221,10 @@ margin-top: 2.5rem;
     width: 5rem;
 }
 .imagen_frutas{
+<<<<<<< HEAD
+=======
+
+>>>>>>> 288983ccf8eb1560ec9c4b4815cbbd50325d358a
     width: 50%;
     margin: 0 auto;
     position: absolute;
@@ -212,4 +236,8 @@ margin-top: 2.5rem;
     display: flex;
     flex-direction: row;
     width: 70rem;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 288983ccf8eb1560ec9c4b4815cbbd50325d358a
 }

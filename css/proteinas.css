@@ -1,6 +1,6 @@
 .imagenes{
     margin-top: -220px;
-    margin-left: 1300px;
+    margin-left: 1400px;
     height: 242px;
     width: 571px;
     border-radius: 0px;
@@ -22,3 +22,41 @@
     height: auto;
     font-size: 18px;
 }
+.video{
+    background: #3EC1D3;
+    position: relative;
+    width: 100%;
+    height: 500px;
+    left: 0px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Alimentos{
+    margin-top: 10rem;
+    text-align: center;
+    font-family: 'Comfortaa';
+    font-size: 2.5rem;
+}
+
+
+
+.alimentos2{
+    width: 30rem;
+}
+
+.alimentos3{
+    width: 29rem;
+}
+
+.prot{
+    margin-top: 3rem;
+    flex-direction: column;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+ 
